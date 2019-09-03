@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/server.dir/home/johnsmith/Documents/c++_projects/remote-light-server/src/SerialPort.cpp.o CMakeFiles/server.dir/home/johnsmith/Documents/c++_projects/remote-light-server/src/Server.cpp.o CMakeFiles/server.dir/home/johnsmith/Documents/c++_projects/remote-light-server/src/main.cpp.o  -o server -lpthread -lstdc++ -lm 

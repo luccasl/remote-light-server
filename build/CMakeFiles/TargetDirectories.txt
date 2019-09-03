@@ -1,0 +1,3 @@
+/home/johnsmith/Documents/c++_projects/remote-light-server/build/CMakeFiles/rebuild_cache.dir
+/home/johnsmith/Documents/c++_projects/remote-light-server/build/CMakeFiles/server.dir
+/home/johnsmith/Documents/c++_projects/remote-light-server/build/CMakeFiles/edit_cache.dir
